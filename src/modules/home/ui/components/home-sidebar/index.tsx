@@ -1,7 +1,8 @@
-import { Sidebar, SidebarContent } from "@/components/ui/sidebar";
+import { Sidebar, SidebarContent } from "@/components/frontend/ui/sidebar";
 import { MainSection } from "./main-section";
-import { Separator } from "@/components/ui/separator";
+
 import { PersonalSection } from "./personal-section";
+import { Separator } from "@/components/frontend/ui/separator";
 
 export const HomeSideBar = () => {
   return (

@@ -1,4 +1,4 @@
-import { SidebarProvider } from "@/components/ui/sidebar";
+import { SidebarProvider } from "@/components/frontend/ui/sidebar";
 import { Homenavbar } from "../components/home-navbar";
 import { HomeSideBar } from "../components/home-sidebar";
 
