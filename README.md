@@ -139,8 +139,7 @@ Secure authentication powered by Clerk.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-
+git clone https://github.com/SaketKumarp/youtube.git
 cd your-project-name
 ```
 
